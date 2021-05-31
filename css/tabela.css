@@ -1,0 +1,56 @@
+
+@import url('https://fonts.googleapis.com/css?family=Modak&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+
+.boletim, .mercado, .ola {
+	background-color: #E9967A;
+	font-size: 30px;
+	font-family: 'Righteous', cursive;
+}
+
+.mat, .tr1, .tr2 {
+	background-color: #7FFFD4;
+}
+
+.b{
+	background-color: #C1FFC1;
+}
+.fi, .geo {
+	background-color: #ff0000;
+}
+
+.a {
+	background-color: #00ff00;
+}
+
+/* lista de mercado*/
+
+.titulo {
+	font-family: 'Modak', cursive;
+	font-size: 25px;
+}
+
+.pro, .quan, .val, .total{
+	background-color: #DEB887;
+}
+
+.a{
+	background-color: #F5F5DC;
+}
+
+.pro1, .quan1, .val1, .total1{
+	background-color: #CD69C9;
+}
+
+.x{
+	background-color: #FFBBFF;
+}
+
+/*tabela de times*/
+
+.aa{
+	background-color: #B0E0E6;
+}
+.k{
+	background-color: 	#F0F8FF;
+}
